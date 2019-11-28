@@ -1,0 +1,15 @@
+﻿Outlook,Temperature,Humidity,Windy,Play
+0,0,0,0,Dont play
+0,0,0,1,Dont play
+1,0,0,0,Play
+2,1,0,0,Play
+2,2,1,0,Play
+2,2,1,1,Dont play
+1,2,1,1,Play
+0,1,0,0,Dont play
+0,2,1,0,Play
+2,1,1,0,Play
+0,1,1,1,Play
+1,1,0,1,Play
+1,0,1,0,Play
+2,1,0,1,Dont play
